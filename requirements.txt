@@ -1,0 +1,9 @@
+streamlit
+pinecone
+sentence-transformers
+torch
+transformers
+langchain-community
+langchain-text-splitters
+pymupdf
+python-dotenv

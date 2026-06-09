@@ -1,0 +1,21 @@
+# Environment
+.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Uploaded PDFs
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db

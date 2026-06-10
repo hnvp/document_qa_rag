@@ -17,7 +17,7 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 
 if "uploaded_files" not in st.session_state:
-    st.session_state.uploaded_files = []  # lưu filename đã clean_ascii
+    st.session_state.uploaded_files = []
 
 
 # load models

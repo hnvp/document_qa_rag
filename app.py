@@ -94,7 +94,7 @@ if question:
         t0 = time.time()
         results = index.query(
             vector=query_embedding.tolist(),
-            top_k=5,
+            top_k=10,
             include_metadata=True,
             filter={"source": {"$in": st.session_state.uploaded_files}},
         )

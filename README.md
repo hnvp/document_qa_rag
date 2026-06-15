@@ -88,8 +88,8 @@ flowchart LR
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/document-qa-rag.git
-cd document-qa-rag
+git clone https://github.com/hnvp/document_qa_rag
+cd document_qa_rag
 ```
 
 Install dependencies:
